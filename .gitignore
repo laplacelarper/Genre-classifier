@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Datasets
+Data/
+
+# Models
+*.pth
+
+# Kaggle
+.kaggle/
+
+# OS-specific
+.DS_Store

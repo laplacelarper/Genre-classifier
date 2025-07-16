@@ -1,0 +1,12 @@
+torch
+torchaudio
+torchvision
+librosa
+gradio
+numpy
+scikit-learn
+matplotlib
+kaggle
+kagglehub
+seaborn
+torch-audiomentations

@@ -118,8 +118,3 @@ The model is a Convolutional Neural Network (CNN) designed for image-like data (
     - `Flatten`
     - `Linear` (64 -> 10 output classes)
 
-## ✅ Next Steps and Improvements
-
-- **Add Audio Augmentation**: Use techniques like pitch shifting, time stretching, or adding noise to increase the diversity of the training data and improve model robustness.
-- **Confusion Matrix**: Modify `train.py` to generate and save a confusion matrix to visualize the model's performance across different genres.
-- **Deploy**: Deploy the application to a service like Hugging Face Spaces or using Docker for wider access.
